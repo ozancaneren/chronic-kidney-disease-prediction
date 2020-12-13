@@ -14,11 +14,13 @@ The performance criteria is the “Accuracy Score”.
 - LightGBM Classifier
 - CatBoost Classifier
 
+
 **Step 2) I find the best performing method above and boost its performance by performing hyperparameter tuning.**
 
-Data Set Information: 
-age – age
-bp - blood pressure
+
+**Data Set Information:**
+- age – age
+- bp - blood pressure
 sg - specific gravity
 al – albumin
 su – sugar
@@ -42,6 +44,7 @@ appet – appetite
 pe - pedal edema
 ane – anemia
 class - class 
+
 
 **Attribute Information:**
 24 + class = 25 (11 numeric, 14 nominal)
