@@ -15,7 +15,7 @@ The performance criteria is the “Accuracy Score”.<br><br><br>
 - CatBoost Classifier<br><br><br>
 
 
-**Step 2) I find the best performing method above and boost its performance by performing hyperparameter tuning.**
+**Step 2) I find the best performing method above and boost its performance by performing hyperparameter tuning.**<br><br><br>
 
 **Data Set Information:**
 -	age – age
