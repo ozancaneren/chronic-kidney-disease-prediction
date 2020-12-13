@@ -2,7 +2,7 @@
 
 In this repository, I work on a binary classification problem in which I predict the chronic kidney disease (ckd or notckd).
 
-The performance criteria is the “Accuracy Score”.<br><br>
+The performance criteria is the “Accuracy Score”.<br><br><br>
 
 **Step 1) I make cross-validated predictions on the train set and calculate the accuracies of the following methods:**
 - Simple Decision Tree Classifier
@@ -12,7 +12,7 @@ The performance criteria is the “Accuracy Score”.<br><br>
 - Gradient Boosting Classifier
 - XGBoost Classifier
 - LightGBM Classifier
-- CatBoost Classifier<br><br>
+- CatBoost Classifier<br><br><br>
 
 
 **Step 2) I find the best performing method above and boost its performance by performing hyperparameter tuning.**
@@ -42,7 +42,7 @@ The performance criteria is the “Accuracy Score”.<br><br>
 -	appet – appetite
 -	pe - pedal edema
 -	ane – anemia
--	class - class<br><br>
+-	class - class<br><br><br>
 
 
 **Attribute Information:**
