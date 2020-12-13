@@ -4,7 +4,7 @@ In this repository, I work on a binary classification problem in which I predict
 
 The performance criteria is the “Accuracy Score”.
 
-**Step 1)** I make cross-validated predictions on the train set and calculate the accuracies of the following methods:
+**Step 1) I make cross-validated predictions on the train set and calculate the accuracies of the following methods:**
 - Simple Decision Tree Classifier
 - Bagged Decision Trees Classifier
 - Random Forest Classifier
@@ -14,7 +14,7 @@ The performance criteria is the “Accuracy Score”.
 - LightGBM Classifier
 - CatBoost Classifier
 
-**Step 2)** I find the best performing method above and boost its performance by performing hyperparameter tuning.
+**Step 2) I find the best performing method above and boost its performance by performing hyperparameter tuning.**
 
 Data Set Information: 
 age – age
@@ -46,7 +46,9 @@ class - class
 **Attribute Information:**
 24 + class = 25 (11 numeric, 14 nominal)
 1.Age (numerical) age in years
+
 2.Blood Pressure (numerical) bp in mm/Hg
+
 3.Specific Gravity (nominal) sg - (1.005,1.010,1.015,1.020,1.025)
 4.Albumin (nominal) al - (0,1,2,3,4,5) 
 5.Sugar (nominal) su - (0,1,2,3,4,5)
