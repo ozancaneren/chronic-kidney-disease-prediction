@@ -2,7 +2,7 @@
 
 In this repository, I work on a binary classification problem in which I predict the chronic kidney disease (ckd or notckd).
 
-The performance criteria is the “Accuracy Score”.
+The performance criteria is the “Accuracy Score”.<br><br>
 
 **Step 1) I make cross-validated predictions on the train set and calculate the accuracies of the following methods:**
 - Simple Decision Tree Classifier
@@ -16,7 +16,6 @@ The performance criteria is the “Accuracy Score”.
 
 
 **Step 2) I find the best performing method above and boost its performance by performing hyperparameter tuning.**
-
 
 **Data Set Information:**
 -	age – age
@@ -43,7 +42,7 @@ The performance criteria is the “Accuracy Score”.
 -	appet – appetite
 -	pe - pedal edema
 -	ane – anemia
--	class - class 
+-	class - class<br><br>
 
 
 **Attribute Information:**
