@@ -19,9 +19,10 @@ The performance criteria is the “Accuracy Score”.
 
 
 **Data Set Information:**
-	age – age
-	bp - blood pressure
-	sg - specific gravity
+-	age – age
+-	bp - blood pressure
+-	sg - specific gravity
+
 	al – albumin
 	su – sugar
 	rbc - red blood cells
